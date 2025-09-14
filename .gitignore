@@ -1,0 +1,12 @@
+venv310/
+venv/
+artifacts/raw/
+artifacts/processed/
+artifacts/model/
+artifacts/weights/
+artifacts/model_checkpoint/
+anime_recommender_system.egg-info/
+
+
+
+

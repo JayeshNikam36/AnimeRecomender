@@ -1,0 +1,11 @@
+2025-09-12 20:01:31,994 - INFO - Created directory: artifacts/processed
+2025-09-12 20:01:31,994 - INFO - Loading data...
+2025-09-12 20:01:32,814 - INFO - Data loaded successfully.
+2025-09-12 20:01:32,976 - INFO - Filtered users with less than 400 ratings.
+2025-09-12 20:01:33,678 - INFO - Ratings scaled successfully.
+2025-09-12 20:01:33,793 - INFO - Data encoded successfully.
+2025-09-12 20:01:34,316 - INFO - Data split successfully.
+2025-09-12 20:01:34,442 - INFO - Artifacts saved successfully.
+2025-09-12 20:01:38,195 - INFO - Artifacts saved successfully.
+2025-09-12 20:01:38,337 - ERROR - Error processing anime data: Usecols do not match columns, columns expected but not found: ['Sypnopsis']
+2025-09-12 20:01:38,337 - ERROR - Error processing data: 'ValueError' object has no attribute 'exc_info'

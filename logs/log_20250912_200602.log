@@ -1,0 +1,11 @@
+2025-09-12 20:06:03,465 - INFO - Created directory: artifacts/processed
+2025-09-12 20:06:03,465 - INFO - Loading data...
+2025-09-12 20:06:04,326 - INFO - Data loaded successfully.
+2025-09-12 20:06:04,489 - INFO - Filtered users with less than 400 ratings.
+2025-09-12 20:06:05,165 - INFO - Ratings scaled successfully.
+2025-09-12 20:06:05,289 - INFO - Data encoded successfully.
+2025-09-12 20:06:05,803 - INFO - Data split successfully.
+2025-09-12 20:06:05,893 - INFO - Artifacts saved successfully.
+2025-09-12 20:06:09,483 - INFO - Artifacts saved successfully.
+2025-09-12 20:06:12,686 - INFO - Anime data processed successfully.
+2025-09-12 20:06:12,687 - INFO - Data processing completed successfully.

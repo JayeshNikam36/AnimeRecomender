@@ -1,0 +1,10 @@
+2025-09-12 21:08:52,669 - INFO - Model Training started...
+2025-09-12 21:08:52,782 - INFO - Data loaded successfully.
+2025-09-12 21:08:52,829 - INFO - YAML file config/config.yaml read successfully.
+2025-09-12 21:08:52,982 - INFO - Model compiled successfully.
+2025-09-12 21:09:21,779 - INFO - Model trained successfully.
+2025-09-12 21:09:21,779 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-09-12 21:09:21,884 - INFO - Model saved successfully.
+2025-09-12 21:09:21,884 - INFO - Weights from user_embedding extracted successfully.
+2025-09-12 21:09:21,898 - INFO - Weights from anime_embedding extracted successfully.
+2025-09-12 21:09:21,902 - INFO - Weights saved successfully.
